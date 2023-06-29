@@ -1,0 +1,1 @@
+<x-qr :slug="$this->record->slug" :marker_image="$this->record->marker_image"/>
